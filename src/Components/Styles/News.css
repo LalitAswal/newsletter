@@ -1,0 +1,30 @@
+.news-intro {
+  margin: 50px 10% 0px 10%;
+}
+.first-line {
+  margin-bottom: 50px;
+}
+.second-line {
+  margin-bottom: 0;
+}
+.News {
+  margin-top: 100px;
+}
+.news {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.newsHeading {
+  text-align: center;
+  margin-top: 30px;
+  color: #9fa8a3;
+}
+.news-img {
+  width: 400px;
+  height: 300px;
+  padding-top: 30px;
+}
+.news-des {
+  margin-bottom: 0;
+  padding: 20px 10% 20px 10%;
+}

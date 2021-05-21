@@ -1,23 +1,40 @@
-import logo from './logo.svg';
+import React from 'react'
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import TeamIntro from './Components/Team-Intro';
+import EventWinners from './Components/eventWinners';
+import Contact from './Components/Contact';
+import Date from './Components/Date';
+import BSTC from './Components/BSTC';
+import Babel from './Components/Babel'
+import Poem from './Components/Poem';
+import News from './Components/News';
+import Video from './Components/Video';
+import Promotions from './Components/Promotions';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className='page-head'>
+      <Date />
+      <Babel />
+      </div>
+      <div className='body'>
+      <Video />
+      <Date />
+      <Promotions />
+      <Date />
+      <BSTC />
+      <Date />
+      <EventWinners />
+      <Date />
+      <Poem />
+      <Date /> 
+      <News />
+      <Date /> 
+      <TeamIntro />
+      </div> 
+      <Contact />
     </div>
   );
 }

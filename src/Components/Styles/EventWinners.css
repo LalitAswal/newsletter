@@ -1,0 +1,26 @@
+.events {
+  text-align: center;
+}
+.eventDesc {
+  margin: 2% 15% 2% 15%;
+  font-family: "Playball", cursive;
+  font-size: 1.5rem;
+}
+.eventwin {
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-top: 50px;
+  color: #9fa8a3;
+}
+.eventLine {
+  border-top: 5px dotted;
+  margin: 0 30% 50px 30%;
+}
+.republicQuiz {
+  text-align: justify;
+}
+.quizSeprator {
+  border-top: 4px dotted #02475e;
+  margin: 40px 30% 40px 30%;
+}

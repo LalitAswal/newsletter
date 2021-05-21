@@ -1,7 +1,15 @@
 .App {
   text-align: center;
+  background-color: white;
 }
-
+.body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.page-head {
+  color: white;
+  background-color: #222831;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -30,7 +38,7 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(ef0deg);
   }
   to {
     transform: rotate(360deg);
