@@ -27,9 +27,8 @@
   margin-bottom: 30px;
 }
 .promotion-intro {
-  font-size: 1.5rem;
-  font-family: "Antic Slab", serif;
-  font-weight: bolder;
+  font-size: 1.7rem;
+  font-family: "Playball", cursive;
 }
 h1 {
   font-size: 2.3rem;
@@ -60,6 +59,16 @@ h1 {
   font-weight: bolder;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+.designation {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.designation-head {
+  font-family: "Antic Slab", serif;
+  padding-bottom: 30px;
+  font-size: 1.5rem;
+  font-weight: bolder;
 }
 .poem-head {
   text-align: center;
