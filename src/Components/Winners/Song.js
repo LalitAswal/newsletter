@@ -13,7 +13,7 @@ function Song() {
                 <Row>
                     <Col xs={12} md={4}>4. Kartikey Mahajan  </Col>
                     <Col xs={12} md={4}>5. Niket Sharma    </Col>
-                    <Col xs={12} md={4}>4. Pratik Pal   </Col>
+                    <Col xs={12} md={4}>6. Pratik Pal   </Col>
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>7. Rahat Pal    </Col>

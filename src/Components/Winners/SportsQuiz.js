@@ -13,7 +13,7 @@ function SportsQuiz() {
                 <Row>
                     <Col xs={12} md={4}>4. Ankit Kumar   </Col>
                     <Col xs={12} md={4}>5. Bhanu Pratap Singh  </Col>
-                    <Col xs={12} md={4}>4. Bhuvesh Sachdeva   </Col>
+                    <Col xs={12} md={4}>6. Bhuvesh Sachdeva   </Col>
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>7. Giridhar Raut </Col>

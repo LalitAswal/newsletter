@@ -13,7 +13,7 @@ function MonthlyRR() {
                 <Row>
                     <Col xs={12} md={4}>4. Lalit Aswal   </Col>
                     <Col xs={12} md={4}>5. Mann Choudhary     </Col>
-                    <Col xs={12} md={4}>4. Mohammed Zunaid    </Col>
+                    <Col xs={12} md={4}>6. Mohammed Zunaid    </Col>
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>7. Mohit Kumar Bhatnagar     </Col>

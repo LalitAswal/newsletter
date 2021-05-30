@@ -13,7 +13,7 @@ function MovieQuiz() {
                 <Row>
                     <Col xs={12} md={4}>4. Daksh Dutta</Col>
                     <Col xs={12} md={4}>5. Himanshi Hurriya  </Col>
-                    <Col xs={12} md={4}>4. Himanshu Parashar  </Col>
+                    <Col xs={12} md={4}>6. Himanshu Parashar  </Col>
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>7. Mridul Kukreja  </Col>

@@ -13,7 +13,7 @@ function PuzzleContest() {
                 <Row>
                     <Col xs={12} md={4}>4. Kartikey Mahajan  </Col>
                     <Col xs={12} md={4}>5. Mukul Singh   </Col>
-                    <Col xs={12} md={4}>4. Nitesh Shankar Pandey  </Col>
+                    <Col xs={12} md={4}>6. Nitesh Shankar Pandey  </Col>
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>7. Rahul Mathur   </Col>

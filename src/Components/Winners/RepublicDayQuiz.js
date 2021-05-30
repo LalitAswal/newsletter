@@ -13,7 +13,7 @@ function RepublicDayQuiz() {
                 <Row>
                     <Col xs={12} md={4}>4. Neha Bhatt  </Col>
                     <Col xs={12} md={4}>5. Shrishti Gairola </Col>
-                    <Col xs={12} md={4}>4. Sushree Ray  </Col>
+                    <Col xs={12} md={4}>6. Sushree Ray  </Col>
                 </Row>
             </Container>
         </div>
