@@ -15,6 +15,7 @@ import Promotions from './Components/Promotions';
 function App() {
   return (
     <div className="App">
+       
       <div className='page-head'>
       <Date />
       <Babel />

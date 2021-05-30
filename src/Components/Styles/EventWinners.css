@@ -1,6 +1,13 @@
 .events {
   text-align: center;
 }
+.month {
+  text-align: center;
+  font-family: "Antic Slab", serif;
+  font-weight: bolder;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
 .eventDesc {
   margin: 2% 15% 2% 15%;
   font-family: "Playball", cursive;
@@ -11,7 +18,7 @@
   margin-right: 10%;
   margin-left: 10%;
   padding-top: 50px;
-  color: #9fa8a3;
+  color: #343f56;
 }
 .eventLine {
   border-top: 5px dotted;
@@ -23,4 +30,7 @@
 .quizSeprator {
   border-top: 4px dotted #02475e;
   margin: 40px 30% 40px 30%;
+}
+.last {
+  margin-bottom: 50px;
 }

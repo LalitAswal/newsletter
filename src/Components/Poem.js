@@ -4,10 +4,7 @@ import './Styles/BSTC.css';
 function Poem(){
     return(
         <div className='poem-head'>
-            <div>
-               <img className='game-img' src='https://images.unsplash.com/photo-1552820728-8b83bb6b773f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80' alt='game' />
                <h3 className='poem-name'>Romantic Poem for Gamers</h3>
-            </div>
             <div className='poem'>
                <p className='poem-line'>Most playful love, cherished rival thee, who first didst win my heart.</p>
                <p className='poem-line'>Your triumph’s prize, sweet victory, on Nintendo Mario Cart.</p>
@@ -24,7 +21,7 @@ function Poem(){
                <p className='poem-line'>Mere memories now I have thee who forced me to my breath catch,</p>
                <p className='poem-line'>When first you fragged my lamer ass, in Quake Two Online death match.</p>
                <p className='poet'>~Yash Bhatnagar</p>
-            </div>
+            </div>    
         </div>
     )
 }

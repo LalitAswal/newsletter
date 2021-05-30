@@ -7,7 +7,7 @@
   border-radius: 50%;
 }
 .team-head {
-  color: #9fa8a3;
+  color: #343f56;
 }
 
 .member {
@@ -35,9 +35,7 @@
   color: white;
 }
 .iconList {
-  padding-left: 20px;
-  padding-right: 30px;
-  padding-bottom: 20px;
+  padding: 20px 20px 20px 20px;
 }
 .iconImg {
   height: 40px;

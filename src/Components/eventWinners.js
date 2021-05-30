@@ -5,7 +5,9 @@ import RepublicDayQuiz from './Winners/RepublicDayQuiz';
 import MovieQuiz from "./Winners/MovieQuiz";
 import FitnessChallenge from "./Winners/FitnessChallenge";
 import SportsQuiz from "./Winners/SportsQuiz";
-
+import PuzzleContest from "./Winners/PuzzleContest";
+import Song from "./Winners/Song";
+import MonthlyRR from "./Winners/R&R";
 
 function eventWinners() {
     return(
@@ -17,11 +19,12 @@ function eventWinners() {
             <hr className='eventLine' />
             
             <Container>
+            <h3 className='month'>March</h3>
                 <Row>
                     <Col className="republicQuiz">
                          <div>
-                            <h5 >Republic Day Quiz:</h5>
-                            <p>This was an event conducted for the auspicious day of Republic Day whose winners are as follows:</p>
+                            <h5 >Tambola Quiz:</h5>
+                            <p>Below are the winners of Tambola quiz.</p>
                          </div>
                          <RepublicDayQuiz />
                          <hr className='quizSeprator' />
@@ -30,8 +33,7 @@ function eventWinners() {
                 <Row>
                     <Col className="republicQuiz">
                          <div>
-                            <h5>Movie Quiz:</h5>
-                            <p>This event was organized where clips of movies were played and we had to recognize movie using the clip that was played. Interesting game, really had us worked up. All participated but here are the winners of the game: </p>
+                            <h5>TV Quiz:</h5>
                          </div>
                          <MovieQuiz />
                          <hr className='quizSeprator' />
@@ -40,8 +42,7 @@ function eventWinners() {
                 <Row>
                     <Col className="republicQuiz">
                          <div>
-                            <h5>Fitness Challenge:</h5>
-                            <p>“Training gives us an outlet for suppressed energies created by stress and thus tones the spirit just as exercise conditions the body.” wonderfully said by Arnold Schwarzenegger. In this time where we are generally bound to our phones, consoles, computers etc., fitness is something that has been getting neglected for long. But don’t you worry guys we do have fitness challenges where various challenges set. Here are the winners of the fitness challenge: </p>
+                            <h5>Plank Challenge:</h5>
                          </div>
                          <FitnessChallenge />
                          <hr className='quizSeprator' />
@@ -50,10 +51,7 @@ function eventWinners() {
                 <Row>
                     <Col className="republicQuiz">
                          <div>
-                            <h5>Sports Quiz:</h5>
-                            <p>
-                            This event was organised where questions were asked related to all the major and minor sports that are being watched and played. We have a lot of huge fan of Cricket and Football in the company. The winner of the event are as follows: 
-                            </p>
+                            <h5>Holi Quiz:</h5>
                         </div>
                          <SportsQuiz />
                          <hr className='quizSeprator' />
@@ -62,15 +60,34 @@ function eventWinners() {
                 <Row>
                     <Col className="republicQuiz">
                          <div>
-                            <h5>Puzzle Contest:</h5>
+                            <h5>Passing the Colour:</h5>
                             <p>
-                            Puzzle games are one the best games we have played since childhood and taking us back to the memory lane, Puzzle contest were conducted and these were the winners for the same: 
+                              The Winners of this challenge  is Team3 lead by Pulkit Baghel
                             </p>
                         </div>
-                         <SportsQuiz />
+                         <PuzzleContest />
+                    </Col>
+                </Row>
+     
+                <h3 className='month'>April</h3>
+                <Row>
+                    <Col className="republicQuiz">
+                         <div>
+                            <h5>Identify the Song:</h5>
+                        </div>
+                         <Song />
                          <hr className='quizSeprator' />
                     </Col>
                 </Row>
+                <Row>
+                    <Col className="republicQuiz last">
+                         <div>
+                            <h5>R&R Quiz:</h5>
+                        </div>
+                         <MonthlyRR />
+                    </Col>
+                </Row>
+
             </Container>
         </div>
     )

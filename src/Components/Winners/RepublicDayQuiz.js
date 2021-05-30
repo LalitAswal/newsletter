@@ -6,29 +6,14 @@ function RepublicDayQuiz() {
         <div>
             <Container>
                 <Row>
-                    <Col xs={12} md={4}>1. Akshita Bhardwaj</Col>
-                    <Col xs={12} md={4}>2. Naveen Bhat</Col>
-                    <Col xs={12} md={4}>3. Pratik Pal </Col>
+                    <Col xs={12} md={4}>1. Kavita Mishra </Col>
+                    <Col xs={12} md={4}>2. Laxshmi Priya </Col>
+                    <Col xs={12} md={4}>3. Monika Mittal  </Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>4. Choudary Ritesh Gautam </Col>
-                    <Col xs={12} md={4}>5. Tarun Sardana</Col>
-                    <Col xs={12} md={4}>4. Manpreet Singh </Col>
-                </Row>
-                <Row>
-                    <Col xs={12} md={4}>7. Neha Bhatt</Col>
-                    <Col xs={12} md={4}>8. Rahat Pal </Col>
-                    <Col xs={12} md={4}>9. Tushar Tikshananshu</Col>
-                </Row>
-                <Row>
-                    <Col xs={12} md={4}>10. Mohit Bhatnagar</Col>
-                    <Col xs={12} md={4}>11. Nirdosh Kumar</Col>
-                    <Col xs={12} md={4}>12. Rahul Chokkar</Col>
-                </Row>
-                <Row>
-                    <Col xs={12} md={4}>13. Shashi Shekhar Sharma </Col>
-                    <Col xs={12} md={4}>14. Vaishnavi Maroo</Col>
-                    <Col xs={12} md={4}></Col>
+                    <Col xs={12} md={4}>4. Neha Bhatt  </Col>
+                    <Col xs={12} md={4}>5. Shrishti Gairola </Col>
+                    <Col xs={12} md={4}>4. Sushree Ray  </Col>
                 </Row>
             </Container>
         </div>

@@ -6,9 +6,9 @@ function FitnessChallenge() {
         <div>
             <Container>
                 <Row>
-                    <Col xs={12}  md={4}>1. Yash Bhatnagar </Col>
-                    <Col xs={12}  md={4}>2. Himanshu Jain </Col>
-                    <Col xs={12}  md={4}>3. Dheeraj Kumar</Col>
+                    <Col xs={12}  md={4}>1. Tushar Chaudhary  </Col>
+                    <Col xs={12}  md={4}>2. Vandna Verma Kataria </Col>
+                    <Col xs={12}  md={4}></Col>
                 </Row>
             </Container>
         </div>
