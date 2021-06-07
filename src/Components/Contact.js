@@ -8,11 +8,10 @@ import ImgLinkedin from '../Images/Icons/linkedin.png'
 function Contact() {
     return(
       
-        <div className='contact'>
-            
-            <h5>You can reach us at:</h5>
-            <a href='https://www.babelmedia.com/' target="_blank" rel="noreferrer" ><h4 className='babelMedia'>Babel MediaPrivate Limited</h4></a>
-            <h5 className='follow'>Follow us on</h5>
+        <div className='contact'> 
+            <h5 className='feedback'>Please share your feedback and suggestions about this newsletter and help us getting better!</h5>
+            <a href='https://forms.office.com/r/4EhPTP8WQc' target="_blank" rel="noreferrer" ><h4 className='babelMedia'>Feedback</h4></a>
+            <h5 className='follow'>Follow</h5>
             <Container>
             
                 <Row>

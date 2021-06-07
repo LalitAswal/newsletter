@@ -53,6 +53,7 @@ function TeamIntro() {
                 </Col>
                </Row>
             </Container>
+            <hr />
         </div>
     )
 }

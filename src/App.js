@@ -11,7 +11,9 @@ import Poem from './Components/Poem';
 import News from './Components/News';
 import Video from './Components/Video';
 import Promotions from './Components/Promotions';
-import About from './Components/About'
+import About from './Components/About';
+import Position from './Components/position';
+
 
 function App() {
   return (
@@ -37,6 +39,7 @@ function App() {
       <News />
       <Date /> 
       <TeamIntro />
+      <Position />
       </div> 
       <Contact />
     </div>
