@@ -10,7 +10,7 @@ function Video(){
                 <Row className='video'>
                     <Col>
                     <h1 className='video-head'> Experts Corner</h1>
-                    <video src={video1} controls='controls' width='600' height='300' autoPlay='false' />
+                    <video src={video1} controls='controls' width='85%' height='85%' autoPlay='false' />
                     </Col>
                 </Row>
             </Container>

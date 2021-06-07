@@ -1,3 +1,17 @@
+.about {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.about-intro {
+  font-family: "Mate SC", serif;
+  margin-top: 50px;
+}
+.about-des {
+  font-family: "Crimson Text", serif;
+  margin-top: 30px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
 .bstc {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -11,7 +25,9 @@
   margin-bottom: 30px;
 }
 .video {
-  margin-bottom: 50px;
+  margin-bottom: 100px;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .bstc-head {
   font-family: "Graduate", cursive;

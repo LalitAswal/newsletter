@@ -1,9 +1,9 @@
 import React from 'react'
 import './Styles/News.css';
-import Image1 from '../Images/Star wars.jpg'
-import Image2 from '../Images/Judgment.jpg'
-import Image3 from '../Images/Returnal.jpg'
-import Image4 from '../Images/PokemonSnap.jpg'
+import Image1 from '../Images/Games/Deathloop.jpeg'
+import Image2 from '../Images/Games/FarCry6.jpeg'
+import Image3 from '../Images/Games/GranTurismo7.jpeg'
+import Image4 from '../Images/Games/ResidentEvil.jpeg'
 
 function news(){
     return(
@@ -17,42 +17,70 @@ function news(){
             </div>
             <div className='News'>
                 <div className='news'>
-                    <h5 className='news-head'>Star Wars Republic Commando (PS4, Switch) – April 6</h5>
+                    <h5 className='news-head'>Deathloop</h5>
                     <img className='news-img' alt='star wars' src={Image1} />
                     <p className='news-des'>
-                        Fan-favourite Star Wars game, Republic Commando, is making a coming back to modern consoles. You will play as Delta Squad leader RC-1138, who can command clone troopers to perform tasks like demolitions, door breaches, search and destroy, and more. Although the
-                        gameplay will be similar to the classic version, the recreated version’s controls have been optimized for DualShock 4, DualSense, and Joy-Con. The game can also be played on PlayStation 5, thanks to backwards compatibility.
+                    Deathloop has the player in the role of Colt, an assassin who is stuck in a time loop, waking up on a beach at the island of Blackreef. The other residents of Blackreef, a former army base where strange experiments had once been held, have invested in the island and have gathered for this night to hold a party that seemingly lasts forever, as at the end of each night, the island resets to the start of the party in that time loop. Because of this reset, the partygoers pay no heed to their actions or deeds since they wake up at the start of the loop with no memories or effects of the previous loop. While Colt is part of this loop, he retains memories from each loop, learning the behaviors and patterns of the partygoers with each loop.
+                     </p>
+                     <p>
+                     Platforms: Microsoft Windows, PlayStation 5
+                     </p>
+                     <p>
+                     Release date: 14 September 2021
+                     </p>
+                     <p>
+                     Mode(s): Single-player, multiplayer
                      </p>
                 </div>
                 <div className='news'>
-                    <h5 className='news-head'>Judgment (PS5, Xbox Series X|S) – April 23</h5>
+                    <h5 className='news-head'>Far Cry 6</h5>
                     <img className='news-img' alt='Judgment' src={Image2} />
                     <p className='news-des'>
-                    Yakuza spinoff, Judgment, is launching on new consoles like PlayStation 5 and Xbox Series X|S with enhanced visuals, faster loading times, and 60 FPS gameplay.
-                     The game takes place in the Kamurocho district and follows lawyer-turned-private detective
-                     Takayuki Yagami, who is trying to solve a murder mystery. 
-                     As expected from Yakuza games, Judgment features action-packed brawler combat and bizarre side quests.
+                    Far Cry 6 is an action-adventure first-person shooter game. Gameplay follows from previous Far Cry games, with players using makeshift weapons, vehicles, and hiring Amigos, the new "Fangs for Hire" system, to topple the tyrannical regime
+                    </p>
+                    <p>
+                    Platforms: PlayStation 4, Amazon Luna, PlayStation 5, Xbox One, Xbox Series X and Series S, Google Stadia, Microsoft Windows
+                    </p>
+                    <p>
+                    Release date: 7 October 2021
+                    </p>
+                    <p>
+                    Mode(s): Single-player, multiplayer
                     </p>
                 </div> 
                 <div className='news'>
-                    <h5 className='news-head'>Returnal (PS5) – April 30</h5>
+                    <h5 className='news-head'>Gran Turismo 7</h5>
                     <img className='news-img' alt='star wars' src={Image3} />
                     <p className='news-des'>
-                    Returnal is a roguelike shooter that follows Selene on a planet that is constantly changing. 
-                    Every time you die in this game, you restart from the beginning with different items and weapons. 
-                    The game features ruthless enemies and the story forces you to piece together Selene’s memories to seek out various answers.
+                    During the gameplay trailer, the game's main menu was revealed to be similar to that of the menu style of Gran Turismo 4. This game brings the return of the GT Simulation Mode, encompassing the long-established and definitive single player campaign feature. Other classic features were shown such as the return of traditional racing tracks and vehicles, Special Events, Championships, Driving School, Tuning Parts Shop, Used Cars dealership, GT Auto while still retaining the new GT Sport Mode, Brand Central and Discover that were introduced in Gran Turismo Sport.
+
+                     </p>
+                     <p>
+                     Platform: PlayStation 5
+                     </p>
+                     <p>
+                     Initial release date: 2022
+                     </p>
+                     <p>
+                     Mode(s): Single-player, multiplayer
                      </p>
                 </div>
                 <div className='news'>
-                    <h5 className='news-head'>New Pokémon Snap (Switch) – April 30</h5>
+                    <h5 className='news-head'>Resident Evil: Village</h5>
                     <img className='news-img' alt='star wars' src={Image4} />
                     <p className='news-des'>
-                    New Pokémon Snap takes place in the Lental region, where you will explore various Pokémon and vegetation that appear to have a special glow. 
-                    Alongside Professor Mirror, you will research these Pokémon to unravel the mystery behind the Illumina phenomenon. 
-                    Your pictures will be scored based on Pokémon poses and behaviour that you capture.
+                    Resident Evil Village is a survival horror game developed and published by Capcom. The sequel to Resident Evil 7: Biohazard, players control Ethan Winters, who is searching for his kidnapped daughter; after a fateful encounter with Chris Redfield, he finds himself in a village filled with mutant creatures.
                      </p>
-                </div>
-                
+                     <p>
+                     Platforms: PlayStation 4, Xbox One, Google Stadia, PlayStation 5, Xbox Series X and Series S, Microsoft Windows
+                     </p>
+                     <p>
+                     Developer: Capcom
+                     </p>
+                     <p>
+                     Release : 1st week of May
+                     </p>
+                </div>             
             </div>
         </div>
     )

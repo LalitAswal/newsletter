@@ -11,6 +11,7 @@ import Poem from './Components/Poem';
 import News from './Components/News';
 import Video from './Components/Video';
 import Promotions from './Components/Promotions';
+import About from './Components/About'
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
       <Babel />
       </div>
       <div className='body'>
+      <About />
+      <Date />
       <Video />
       <Date />
       <Promotions />
