@@ -13,7 +13,7 @@ function Babel(){
              
              <div className='babel-intro'>
                 <p>
-                  Hello, Namaste, Sata srī akāla, Bonjour, Hallo, Hola Babel Family Welcome to one and only Babel News Platform!
+                  Hello, Namaste, Sata srī akāla, Bonjour, Hallo, Hola Keywords Family Welcome to one and only Keywords India News Platform!
                 </p>
               </div>
           </Row>
