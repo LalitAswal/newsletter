@@ -3,14 +3,14 @@ import {Container, Col, Row } from 'react-bootstrap';
 import './Styles/BSTC.css';
 function Promotions(){
     return(
-        <div className='bstc'>
+        <div className='bstc' >
             <Container>
             <h1 className='promotion-head' >Promotions</h1>
             <p className='promotion-intro'>Celebrating our employee’s achievements as they are Encouraging others to strive for advancement</p>
-                <div className='designation'>
+                <div className='designation' >
                  <Row>
                     <Col>
-                        <h4 className='designation-head'>Senior Manager</h4>
+                        <h4 className='designation-head' id='seniormanager'>Senior Manager</h4>
                     </Col>
                  </Row>
                  <Row>
@@ -21,10 +21,10 @@ function Promotions(){
                  </Row>
                 </div>
                 <hr />
-                 <div className='designation'>
+                 <div className='designation' >
                     <Row>
                        <Col>
-                          <h4 className='designation-head'>Senior Executive Talent Acquisition</h4>
+                          <h4 className='designation-head' id='seta'>Senior Executive Talent Acquisition</h4>
                        </Col>
                      </Row>
                      <Row>
@@ -35,10 +35,10 @@ function Promotions(){
                      </Row>
                 </div>
                 <hr />
-                <div className='designation'>
+                <div className='designation' >
                     <Row>
                        <Col>
-                           <h4 className='designation-head'>Associate Project Manager</h4>
+                           <h4 className='designation-head' id='apm'>Associate Project Manager</h4>
                        </Col>
                     </Row>
                     <Row>
@@ -63,10 +63,10 @@ function Promotions(){
                     </Row>
                 </div>
                 <hr />
-                <div className='designation'>
+                <div className='designation' >
                     <Row>
                     <Col>
-                           <h4 className='designation-head'>QA Test Lead</h4>
+                           <h4 className='designation-head' id='test_lead'>QA Test Lead</h4>
                        </Col>
                     </Row>
                     <Row>
@@ -85,10 +85,10 @@ function Promotions(){
                     </Row>
                 </div>
                 <hr />
-                <div className='designation'>
+                <div className='designation' >
                     <Row>
                        <Col>
-                           <h4 className='designation-head'>Senior Tester</h4>
+                           <h4 className='designation-head' id='senior_tester'>Senior Tester</h4>
                        </Col>
                     </Row>
                     <Row>

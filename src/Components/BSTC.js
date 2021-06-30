@@ -4,7 +4,7 @@ import {Container, Col, Row } from 'react-bootstrap';
 
 function bstc() {
     return(
-        <div className='bstc'> 
+        <div className='bstc' id='BSTC'> 
             <h1 className='bstc-head'>Babel Software Testing Certification Champions</h1>
             <h5 className='bstc-intro'>There are always new, grander challenges to confront, and a true winner will embrace each one.</h5>
             <Container>

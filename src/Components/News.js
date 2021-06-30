@@ -7,7 +7,7 @@ import Image4 from '../Images/Games/ResidentEvil.jpeg'
 
 function news(){
     return(
-        <div> 
+        <div id='news'> 
             <div>
                 <h3 className='newsHeading'>TO THE WORLD OF GAMES</h3>
                 <div className='news-intro'>

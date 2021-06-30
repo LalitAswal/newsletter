@@ -15,12 +15,13 @@ import About from './Components/About';
 import Position from './Components/position';
 
 
+
 function App() {
   return (
+    
     <div className="App">
-       
+       <Contact />
       <div className='page-head'>
-      <Date />
       <Babel />
       </div>
       <div className='body'>
@@ -39,10 +40,10 @@ function App() {
       <News />
       <Date /> 
       <TeamIntro />
-      <Position />
-      </div> 
-      <Contact />
-    </div>
+
+    </div> 
+      
+   </div> 
   );
 }
 

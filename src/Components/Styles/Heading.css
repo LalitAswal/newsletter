@@ -1,6 +1,6 @@
 .date {
   width: 100%;
-  height: 35px;
+  height: 15px;
   background-color: #0c4271;
 }
 .babel-date {
@@ -48,3 +48,37 @@
   font-weight: bolder;
   color: #0f3057;
 }
+
+/* #facebookid
+{
+  margin-left: 500px;
+}   */
+.fab 
+{
+  margin-left: 15px;
+  font-size: 30px;
+  color:rgb(2, 138, 216);
+
+}
+.fab:hover
+{
+  color:white;
+  
+
+}
+
+.fas 
+{
+
+margin-left :15px;
+font-size: 25px;
+color:rgb(2, 138, 216);
+
+}
+
+.fas:hover 
+{
+  color:white;
+ 
+  
+  }

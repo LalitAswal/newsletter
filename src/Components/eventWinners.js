@@ -11,7 +11,7 @@ import MonthlyRR from "./Winners/R&R";
 
 function eventWinners() {
     return(
-        <div className='events'>
+        <div className='events' id='event'>
             <div className='eventwin'>
                 <h1>Event Winners</h1>
             </div>

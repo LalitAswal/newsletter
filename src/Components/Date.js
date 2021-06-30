@@ -4,9 +4,12 @@ import './Styles/Heading.css';
 function Date(){
     return(
         <div className='date'>
-            <strong className='babel-date'>Wednesday, 09.06.2021</strong>
+            <strong className='babel-date'></strong>
         </div>
     )
 }
 
 export default Date;
+       
+
+

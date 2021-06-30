@@ -5,11 +5,11 @@ import video1 from '../Images/Video.mp4'
 
 function Video(){
     return(
-        <div>
+        <div >
             <Container>
                 <Row className='video'>
                     <Col>
-                    <h1 className='video-head'> Experts Corner</h1>
+                    <h1 className='video-head' id='experts'> Experts Corner</h1>
                     <video  src={video1} controls='controls' width='85%' height='85%' autoPlay='false' />
                     </Col>
                 </Row>
